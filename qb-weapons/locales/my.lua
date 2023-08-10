@@ -1,24 +1,24 @@
 local Translations = {
     error = {
-        canceled = 'Canceled',
-        max_ammo = 'Max Ammo Capacity',
-        no_weapon = 'You have no weapon.',
-        no_support_attachment = 'This weapon does not support this attachment.',
-        no_weapon_in_hand = 'You dont have a weapon in your hand.',
-        weapon_broken = 'This weapon is broken and can not be used.',
-        no_damage_on_weapon = 'This weapon is not damaged..',
-        weapon_broken_need_repair = 'Your weapon is broken, you need to repair it before you can use it again.',
+        canceled = 'Batal',
+        max_ammo = 'Ammo Maksima',
+        no_weapon = 'Anda tiada senjata',
+        no_support_attachment = 'Senjata ini tidak boleh digabungkan',
+        no_weapon_in_hand = 'Anda tidak mempunyai senjata',
+        weapon_broken = 'Senjata rosak tidak boleh digunakan',
+        no_damage_on_weapon = 'Senjata tidak rosak..',
+        weapon_broken_need_repair = 'Senjata rosak, perly dibaiki sebelum diguna semula.',
         attachment_already_on_weapon = 'You already have a %{value} on your weapon.'
     },
     success = {
         reloaded = 'Reloaded'
     },
     info = {
-        loading_bullets = 'Loading Bullets',
+        loading_bullets = 'Mengisi peluru',
         repairshop_not_usable = 'The repairshop in this moment is ~r~NOT~w~ usable.',
-        weapon_will_repair = 'Your weapon will be repaired.',
-        take_weapon_back = '[E] - Take Weapon Back',
-        repair_weapon_price = '[E] Repair Weapon, ~g~$%{value}~w~',
+        weapon_will_repair = 'Senjata anda akan dibaiki',
+        take_weapon_back = '[E] - Ambil senjata semula',
+        repair_weapon_price = '[E] Baikpulih senjata, ~g~$%{value}~w~',
         removed_attachment = 'You removed %{value} from your weapon!',
         hp_of_weapon = 'Durability of your weapon'
     },
