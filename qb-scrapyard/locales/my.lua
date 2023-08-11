@@ -7,16 +7,16 @@ local Translations = {
         canceled = "Canceled",
     },
     text = {
-        scrapyard = 'Scrap Yard',
+        scrapyard = 'Gudang Kereta Lupus',
         disassemble_vehicle = '[E] - Disassemble Vehicle',
         disassemble_vehicle_target = 'Disassemble Vehicle',
         email_list = "[E] - E-mail Vehicle List",
         email_list_target = "E-mail Vehicle List",
-        demolish_vehicle = "Demolish Vehicle",
+        demolish_vehicle = "Kereta Dilupuskan",
     },
     email = {
-        sender = "Turner’s Auto Wrecking",
-        subject = "Vehicle List",
+        sender = "DjAmieX Gudang Pelupusan",
+        subject = "Senarai Kenderaan",
         message = "You Can Only Demolish A Number Of Vehicles.<br />You Can Keep Everything You Demolish For Yourself As Long As You Dont Bother Me.<br /><br /><strong>Vehicle List:</strong><br />",
     },
 }
