@@ -30,7 +30,7 @@ local Translations = {
         respawn_revive = 'HOLD [~r~E~s~] FOR %{holdtime} SECONDS TO RESPAWN FOR $~r~%{cost}~s~',
         bleed_out = 'YOU WILL BLEED OUT IN: ~r~%{time}~s~ SECONDS',
         bleed_out_help = 'YOU WILL BLEED OUT IN: ~r~%{time}~s~ SECONDS, YOU CAN BE HELPED',
-        request_help = 'PRESS [~r~G~s~] TO REQUEST HELP',
+        request_help = 'TEKAN [~r~G~s~] MINTA BANTUAN',
         help_requested = 'K KESIHATAN TELAH DI HUBUNGGI',
         amb_plate = 'KKEM', -- Should only be 4 characters long due to the last 4 being a random 4 digits
         heli_plate = 'KKER',  -- Should only be 4 characters long due to the last 4 being a random 4 digits
@@ -58,8 +58,8 @@ local Translations = {
         heal_player_a = 'Heal A Player or Yourself (Admin Only)',
     },
     mail = {
-        sender = 'Pillbox Hospital',
-        subject = 'Hospital Costs',
+        sender = 'Kementerian Kesihatan',
+        subject = 'Kos Hospital',
         message = 'Dear %{gender} %{lastname}, <br /><br />Hereby you received an email with the costs of the last hospital visit.<br />The final costs have become: <strong>$%{costs}</strong><br /><br />We wish you a quick recovery!'
     },
     states = {
