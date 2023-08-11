@@ -1,35 +1,35 @@
 local Translations = {
     error = {
-        not_give = "Could not give item to the given id.",
-        givecash = "Usage /givecash [ID] [AMOUNT]",
-        wrong_id = "Wrong ID.",
-        dead = "You are dead LOL.",
-        too_far_away = "You are too far away lmfao.",
-        not_enough = "You don\'t have this amount.",
-        invalid_amount = "Invalid Amount Given"
+        not_give = "Tidak dapat beri barang.",
+        givecash = "Gunakan /givecash [ID] [JUMLAH]",
+        wrong_id = "Salah ID.",
+        dead = "Anda mati.",
+        too_far_away = "Anda terlalu jauh jarak.",
+        not_enough = "Anda tidak mempunyai jumlah ini.",
+        invalid_amount = "Salah beri jumlah"
     },
     success = {
-        debit_card = "You have successfully ordered a Debit Card.",
-        cash_deposit = "You successfully made a cash deposit of $%{value}.",
-        cash_withdrawal = "You successfully made a cash withdrawal of $%{value}.",
-        updated_pin = "You have successfully updated your debit card pin.",
-        savings_deposit = "You successfully made a savings deposit of $%{value}.",
-        savings_withdrawal = "You successfully made a savings withdrawal of $%{value}.",
-        opened_savings = "You have successfully opened a savings account.",
-        give_cash = "Successfully gave $%{cash} to ID %{id}",
-        received_cash = "Successfully received $%{cash} from ID %{id}"
+        debit_card = "Anda telah berjaya mendapat Kad Debit.",
+        cash_deposit = "Anda berjaya membuat simpanan tunai $%{value}.",
+        cash_withdrawal = "Anda berjaya membuat pengeluaran tunai $%{value}.",
+        updated_pin = "Anda telah berjaya mengemaskini pin Kad Debit.",
+        savings_deposit = "Anda berjaya deposit akaun simpanan $%{value}.",
+        savings_withdrawal = "Anda berjaya pengeluaran akaun simpanan $%{value}.",
+        opened_savings = "Anda berjaya membuka akaun simpanan.",
+        give_cash = "Berjaya beri $%{cash} kepada ID %{id}",
+        received_cash = "Berjaya terima $%{cash} dari ID %{id}"
     },
     info = {
-        bank_blip = "Bank",
-        access_bank_target = "Access Bank",
-        access_bank_key = "[E] - Access Bank",
-        current_to_savings = "Transfer Current Account to Savings",
-        savings_to_current = "Transfer Savings to Current Account",
-        deposit = "Deposit $%{amount} into Current Account",
-        withdraw = "Withdraw $%{amount} from Current Account",
+        bank_blip = "Maybank",
+        access_bank_target = "Akses Bank",
+        access_bank_key = "[E] - Akses Bank",
+        current_to_savings = "Pindah Akaun Semasa Ke Simpanan Tetap",
+        savings_to_current = "Pindah Simpanan Tetap Ke Akaun Semasa",
+        deposit = "Deposit $%{amount} into Akaun Semasa",
+        withdraw = "Pengeluaran $%{amount} from Akaun Semasa",
     },
     command = {
-        givecash = "Give cash to player."
+        givecash = "Memberi tunai kepada pemain."
     }
 }
 
