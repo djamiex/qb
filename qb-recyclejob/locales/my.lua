@@ -1,23 +1,23 @@
 local Translations = {
     success = {
-        you_have_been_clocked_in = "You Have Been Clocked In",
+        you_have_been_clocked_in = "Anda Telah Mulakan Tugas",
     },
     text = {
-        point_enter_warehouse = "[E] Enter Warehouse",
-        enter_warehouse= "Enter Warehouse",
-        exit_warehouse= "Exit Warehouse",
-        point_exit_warehouse = "[E] Exit Warehouse",
-        clock_out = "[E] Clock Out",
-        clock_in = "[E] Clock In",
-        hand_in_package = "Hand In Package",
-        point_hand_in_package = "[E] Hand In Package",
-        get_package = "Get Package",
-        point_get_package = "[E] Get Package",
-        picking_up_the_package = "Picking up the package",
-        unpacking_the_package = "Unpacking the package",
+        point_enter_warehouse = "[E] Masuk Gudang",
+        enter_warehouse= "Masuk Gudang",
+        exit_warehouse= "Keluar Gudang",
+        point_exit_warehouse = "[E] Keluar Gudang",
+        clock_out = "[E] Tamat Tugas",
+        clock_in = "[E] Mula Tugas",
+        hand_in_package = "Menyerah Pakej",
+        point_hand_in_package = "[E] Menyerah Pakej",
+        get_package = "Dapatkan Pakej",
+        point_get_package = "[E] Dapatkan Pakej",
+        picking_up_the_package = "Mengangkat Pakej",
+        unpacking_the_package = "Membuka Pakej",
     },
     error = {
-        you_have_clocked_out = "You Have Clocked Out"
+        you_have_clocked_out = "Anda Telah Menamatkan Tugas"
     },
 }
 
