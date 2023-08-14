@@ -4,7 +4,7 @@ QB.Spawns = {
     ["legion"] = {
         coords = vector4(195.17, -933.77, 29.7, 144.5),
         location = "legion",
-        label = "Dataran Ipoh",
+        label = "Dataran",
     },
 
     ["policedp"] = {
@@ -16,12 +16,12 @@ QB.Spawns = {
     ["paleto"] = {
         coords = vector4(80.35, 6424.12, 31.67, 45.5),
         location = "paleto",
-        label = "Gerik",
+        label = "Bandar Utara",
     },
 
     ["motel"] = {
         coords = vector4(327.56, -205.08, 53.08, 163.5),
         location = "motel",
-        label = "Hotel",
+        label = "Pekan Baru",
     },
 }
