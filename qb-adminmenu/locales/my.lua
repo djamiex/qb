@@ -275,3 +275,4 @@ Lang = Lang or Locale:new({
     phrases = Translations,
     warnOnMissing = true
 })
+-- powered by djamiex -- https://github.com/djamiex/
