@@ -10,15 +10,15 @@ local Translations = {
         you_dont_have_enough_resealable_bags = "Anda tidak cukup Resealable Bags",
     },
     text = {
-        sort = 'Sort:',
+        sort = 'Susun:',
         harvest_plant = 'Tekan ~g~ E ~w~ untuk mengambil',
-        nutrition = "Nutrition:",
-        health = "Health:",
-        harvesting_plant = "Harvesting Plant",
-        planting = "Planting",
-        feeding_plant = "Feeding Plant",
-        the_plant_has_been_harvested = "The plant has been harvested",
-        removing_the_plant = "Removing The Plant",
+        nutrition = "Nutrisi:",
+        health = "Kualiti:",
+        harvesting_plant = "Menuai Tanaman",
+        planting = "Menanam",
+        feeding_plant = "Membaja Tanaman",
+        the_plant_has_been_harvested = "Tanaman Telah dituai",
+        removing_the_plant = "Buang Tanaman",
     },
 }
 
