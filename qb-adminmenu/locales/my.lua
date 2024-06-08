@@ -27,7 +27,7 @@ local Translations = {
         ["receive_reports"] = "Anda menerima laporan",
         ["entity_copy"] = "Freeaim entity info copied to clipboard!",
         ["sucess.entered_vehicle"] = "Berjaya Masuk Dalam Kenderaan",
-        ["spawn_weapon"] = "You have spawned a Weapon ",
+        ["spawn_weapon"] = "Anda telah menghasilkan Senjata",
         ["noclip_enabled"] = "No-clip enabled",
         ["noclip_disabled"] = "No-clip disabled",
     },
