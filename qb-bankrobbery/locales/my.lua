@@ -1,6 +1,6 @@
 local Translations = {
     success = {
-        success_message = "Successful",
+        success_message = "Mesej Berjaya",
         fuses_are_blown = "The fuses have been blown",
         door_has_opened = "The door has opened"
     },
