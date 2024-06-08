@@ -1,6 +1,6 @@
 local Translations = {
     error = {
-        to_far_from_door = 'You are to far away from the Doorbell',
+        to_far_from_door = 'Anda berada jauh dari lonceng pintu',
         nobody_home = 'There is nobody home..',
         nobody_at_door = 'There is nobody at the door...'
     },
