@@ -1,6 +1,6 @@
 local Translations = {
     error = {
-        not_your_vehicle = 'This is not your vehicle..',
+        not_your_vehicle = 'Bukan kenderaan anda..',
         vehicle_does_not_exist = 'Vehicle does not exist',
         not_enough_money = 'You dont have enough money',
         finish_payments = 'You must finish paying off this vehicle, Before you can sell it..',
